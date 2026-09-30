@@ -118,7 +118,7 @@ Excel Report
 
 Add your screenshot here after uploading it to the repository:
 
-![Daily Report Screenshot](daily_report_YYYY-MM-DD.png)
+![Daily Report Screenshot](daily_report_2026-10-01.png)
 
 🔄 Automation Workflow
 Start
