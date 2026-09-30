@@ -1,6 +1,6 @@
 Daily Report Bot 🤖
 
-A Python automation bot built using PyAutoGUI for the Gen AI Architect Program – Assignment 1.
+A Python automation bot built using PyAutoGUI for the Gen AI Architect Program – Assignment 3.
 
 What it does
 
@@ -41,5 +41,5 @@ Output
 
 Author
 
-[Your Name]
-Gen AI Architect Program – Assignment 1
+[K.Sivakumar]
+Gen AI Architect Program – Assignment 3
